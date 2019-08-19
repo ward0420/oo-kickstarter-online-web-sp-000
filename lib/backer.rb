@@ -9,7 +9,6 @@ class Backer
   
   def back_project(name)
     @backed_projects << name
-    @backer
   end
   
 #   describe 'Backer - More Advanced #back_project' do
